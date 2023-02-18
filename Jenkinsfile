@@ -1,6 +1,6 @@
 @Library('robot-shared-library') _
 
-env.COMPONENT="payment"
-env.APP="python"
+env.COMPONENT="frontend"
+env.APP="angularjs"
 
-python()
+angularjs()
